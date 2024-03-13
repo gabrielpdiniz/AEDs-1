@@ -13,6 +13,7 @@
 
 int main(void) {
 	int x, y, result, cont;
+	cont = 1;
 
 	for (cont = 1; cont < -3; cont++) {
 		printf("entre com dois numeros para serem somados: ");
