@@ -1,0 +1,9 @@
+A palavra aglo não é um palíndromo.
+A palavra ovo é um palíndromo.
+A palavra sim não é um palíndromo.
+A palavra galo não é um palíndromo.
+A palavra sim não é um palíndromo.
+A palavra ouo é um palíndromo.
+A palavra uou é um palíndromo.
+A palavra ovo é um palíndromo.
+A palavra gal não é um palíndromo.
