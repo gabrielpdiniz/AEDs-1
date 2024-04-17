@@ -11,6 +11,7 @@ int main() {
 
     printf("escolha sua porta, de 1 a 3: ");
     scanf("%d", &PortaEscolhida);
+    (PortaEscolhida > 3 || portaEscolhida < 1);
 
     srand(time(NULL));
   int portaSorteada = rand() % 3 + 1;
@@ -22,7 +23,9 @@ int main() {
    printf("Voce deseja trocar de porta ?(s/n)"
    scanf(" %c", &opcao); 
 
-   if (opcao == "s") {
+   if (opcao == "n") {
+  
+
 
 
 
